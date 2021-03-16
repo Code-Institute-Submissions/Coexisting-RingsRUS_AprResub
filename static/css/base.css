@@ -5,9 +5,8 @@ html {
 }
 
 body {
-    background: url('/media/franks-hand.jpg') no-repeat center center fixed;
-    background-size: cover;
-    height: calc(100vh - 164px);
+    background: url('/media/ringhand.png') no-repeat center center fixed;
+   background-size: cover;
     color: #555;
     font-family: 'DotGothic16', sans-serif;
 }
