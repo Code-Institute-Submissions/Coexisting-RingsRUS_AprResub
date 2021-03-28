@@ -1,679 +1,184 @@
-{
- "selection1": [
+ [
   {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/vaurus?variant=13610132668491",
-   "selection2": [
-    {
-     "name": "Vaurus",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/vaurus"
-    },
-    {
-     "price": "$85 USD"
-    },
-    {
-     "price": "$85"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
+    
+   "pk": 1, "model": "products.product", "fields": { "sku": "201", "name": "Vaurus",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/vaurus",
+   "price": "$85"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+ {
+   "pk": 2, "model": "products.product", "fields": { "sku": "202", "name": "Tangent",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/tangent",
+   "price": "$55"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
   {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/tangent?variant=32965502238795",
-   "selection2": [
-    {
-     "name": "Tangent",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/tangent"
-    },
-    {
-     "price": "$55 USD"
-    },
-    {
-     "price": "$55"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
+   "pk": 3, "model": "products.product", "fields": { "sku": "203", "name": "Terminus",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/terminus",
+   "price": "$80"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
   {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/terminus?variant=39251281051723",
-   "selection2": [
-    {
-     "name": "Terminus",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/terminus"
-    },
-    {
-     "price": "$80 USD"
-    },
-    {
-     "price": "$80"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
+   "pk": 4, "model": "products.product", "fields": { "sku": "204", "name": "Inverse",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/inverse",
+   "price": "$55"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
   {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/inverse?variant=39246470545483",
-   "selection2": [
-    {
-     "name": "Inverse",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/inverse"
-    },
-    {
-     "price": "$55 USD"
-    },
-    {
-     "price": "$55"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
+   "pk": 5, "model": "products.product", "fields": { "sku": "205", "name": "Valve",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/valve",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 1, "model": "products.product", "fields": { "sku": "206", "name": "Divide",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/divide",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 6, "model": "products.product", "fields": { "sku": "207", "name": "Echo",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/echo",
+   "price": "$65"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 7, "model": "products.product", "fields": { "sku": "208", "name": "Clutch",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/clutch",
+   "price": "$75"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 1, "model": "products.product", "fields": { "sku": "209", "name": "Proxy",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/proxy",
+   "price": "$80"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 8, "model": "products.product", "fields": { "sku": "210", "name": "Grip",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/grip",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 9, "model": "products.product", "fields": { "sku": "211", "name": "Stasis",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/stasis",
+   "price": "$75"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 10, "model": "products.product", "fields": { "sku": "212", "name": "Drift",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/drift",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 11, "model": "products.product", "fields": { "sku": "213", "name": "Helix",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/helix",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 12, "model": "products.product", "fields": { "sku": "214", "name": "Reset",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/reset",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 13, "model": "products.product", "fields": { "sku": "215", "name": "Turbine",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/turbine",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 14, "model": "products.product", "fields": { "sku": "216", "name": "Orbit",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/orbit",
+   "price": "$75"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 15, "model": "products.product", "fields": { "sku": "217", "name": "Eclipse",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/eclipse",
+   "price": "$65"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 16, "model": "products.product", "fields": { "sku": "218", "name": "Gridlok",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/gridlok",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 17, "model": "products.product", "fields": { "sku": "219", "name": "Resist",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/resist",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 18, "model": "products.product", "fields": { "sku": "220", "name": "Ruin",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/ruin",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 19, "model": "products.product", "fields": { "sku": "221", "name": "Isotope x Tungsten",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/isotope",
+   "price": "$80"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 20, "model": "products.product", "fields": { "sku": "222", "name": "Razor",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/razor",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 21, "model": "products.product", "fields": { "sku": "223", "name": "Spark",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/spark",
+   "price": "$55"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 22, "model": "products.product", "fields": { "sku": "224", "name": "Perimeter",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/perimeter",
+   "price": "$55"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 23, "model": "products.product", "fields": { "sku": "225", "name": "XXX",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/xxx",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 24, "model": "products.product", "fields": { "sku": "226", "name": "Quantum",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/quantum",
+   "price": "$60"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 25, "model": "products.product", "fields": { "sku": "227", "name": "Region",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/region",
+   "price": "$55"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 26, "model": "products.product", "fields": { "sku": "228", "name": "Rey",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/rey",
+   "price": "$65"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 27, "model": "products.product", "fields": { "sku": "229", "name": "Exile",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/exile",
+   "price": "$85"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 28, "model": "products.product", "fields": { "sku": "230", "name": "Cell",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/cell",
+   "price": "$65"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 29, "model": "products.product", "fields": { "sku": "231", "name": "Solar",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/solar",
+   "price": "$55"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 30, "model": "products.product", "fields": { "sku": "232", "name": "Idol",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/idol",
+   "price": "$50"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 31, "model": "products.product", "fields": { "sku": "233", "name": "Conduit x Tungsten",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/conduit",
+   "price": "$80"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 32, "model": "products.product", "fields": { "sku": "234", "name": "Abyss x Sterling Silver",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/abyss",
+   "price": "$105"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 33, "model": "products.product", "fields": { "sku": "235", "name": "Hex x Sterling Silver",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/hex",
+   "price": "$95"
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  {
+   "pk": 34, "model": "products.product", "fields": { "sku": "236", "name": "Playne x Sterling Silver",
+   "url": "https://www.vitalydesign.com/collections/accessories/products/playne",
+   "price": "$75"
+    , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }}
    
-    {
-     "name": "Gold"
-    },
-   
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/valve?variant=33075953926219",
-   "selection2": [
-    {
-     "name": "Valve",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/valve"
-    },
-    {
-     "price": "$60 USD"
-    },
-    {
-     "price": "$60"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Matte Black"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/divide?variant=33039401451595",
-   "selection2": [
-    {
-     "name": "Divide",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/divide"
-    },
-    {
-     "price": "$60 USD"
-    },
-    {
-     "price": "$60"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/echo?variant=33056477642827",
-   "selection2": [
-    {
-     "name": "Echo",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/echo"
-    },
-    {
-     "price": "$65 USD"
-    },
-    {
-     "price": "$65"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/clutch?variant=33056478658635",
-   "selection2": [
-    {
-     "name": "Clutch",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/clutch"
-    },
-    {
-     "price": "$75 USD"
-    },
-    {
-     "price": "$75"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/proxy?variant=33023807848523",
-   "selection2": [
-    {
-     "name": "Proxy",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/proxy"
-    },
-    {
-     "price": "$80 USD"
-    },
-    {
-     "price": "$80"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/grip?variant=30992169992267",
-   "selection2": [
-    {
-     "name": "Grip",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/grip"
-    },
-    {
-     "price": "$60 USD"
-    },
-    {
-     "price": "$60"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Matte Black"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Midnight"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/stasis?variant=33048559779915",
-   "selection2": [
-    {
-     "name": "Stasis",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/stasis"
-    },
-    {
-     "price": "$75 USD"
-    },
-    {
-     "price": "$75"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/drift?variant=33015004889163",
-   "selection2": [
-    {
-     "name": "Drift",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/drift"
-    },
-    {
-     "price": "$60 USD"
-    },
-    {
-     "price": "$60"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/helix?variant=32986857898059",
-   "selection2": [
-    {
-     "name": "Helix",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/helix"
-    },
-    {
-     "price": "$60 USD"
-    },
-    {
-     "price": "$60"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/reset?variant=32977828970571",
-   "selection2": [
-    {
-     "name": "Reset",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/reset"
-    },
-    {
-     "price": "$60 USD"
-    },
-    {
-     "price": "$60"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel / Black"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel / Green"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold / Black"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/turbine?variant=32965497225291",
-   "selection2": [
-    {
-     "name": "Turbine",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/turbine"
-    },
-    {
-     "price": "$60 USD"
-    },
-    {
-     "price": "$60"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  },
-  {
-   "image": "",
-   "image": "https://www.vitalydesign.com/collections/accessories/products/orbit?variant=32946298191947",
-   "selection2": [
-    {
-     "name": "Orbit",
-     "image": "https://www.vitalydesign.com/collections/accessories/products/orbit"
-    },
-    {
-     "price": "$75 USD"
-    },
-    {
-     "price": "$75"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Stainless Steel"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": "Gold"
-    },
-    {
-     "name": ""
-    },
-    {
-     "name": ""
-    }
-   ]
-  }
  ]
-}
