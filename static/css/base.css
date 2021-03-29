@@ -7,7 +7,7 @@ html {
 body {
     background: url('/media/ringhand.png') no-repeat center center fixed;
    background-size: cover;
-    color: #555;
+    color: white !important;
     font-family: 'DotGothic16', sans-serif;
 }
 
@@ -36,8 +36,8 @@ body {
 }
 
 .btn-black {
-    background: black;
-    color: white;
+    background:white;
+    color:black;
 }
 
 .shop-now-button:hover,
@@ -47,11 +47,11 @@ body {
 .btn-black:active,
 .btn-black:focus {
     background: #222;
-    color: white;
+    color:black;
 }
 
 .text-black {
-    color: #000 !important;
+    color:black !important;
 }
 
 .border-black {
@@ -59,7 +59,7 @@ body {
 }
 
 .bg-black {
-    background: #000 !important;
+    background:black!important;
 }
 
 .overlay {
@@ -68,7 +68,7 @@ body {
 	top: 0;
 	left: 0;
 	position: fixed;
-	background: white;
+	background: black;
 	z-index: -1;
 }
 
@@ -101,6 +101,7 @@ body {
 
     body {
         height: calc(100vh - 116px);
+        color: white;
     }
    
 }

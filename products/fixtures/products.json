@@ -4,181 +4,181 @@
    "pk": 1, "model": "products.product", "fields": { "sku": "201", "name": "Vaurus",
    "url": "https://www.vitalydesign.com/collections/accessories/products/vaurus",
    "price": "$85"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
  {
    "pk": 2, "model": "products.product", "fields": { "sku": "202", "name": "Tangent",
    "url": "https://www.vitalydesign.com/collections/accessories/products/tangent",
    "price": "$55"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "3" }},
   {
    "pk": 3, "model": "products.product", "fields": { "sku": "203", "name": "Terminus",
    "url": "https://www.vitalydesign.com/collections/accessories/products/terminus",
    "price": "$80"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "4" }},
   {
    "pk": 4, "model": "products.product", "fields": { "sku": "204", "name": "Inverse",
    "url": "https://www.vitalydesign.com/collections/accessories/products/inverse",
    "price": "$55"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "4" }},
   {
    "pk": 5, "model": "products.product", "fields": { "sku": "205", "name": "Valve",
    "url": "https://www.vitalydesign.com/collections/accessories/products/valve",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 1, "model": "products.product", "fields": { "sku": "206", "name": "Divide",
    "url": "https://www.vitalydesign.com/collections/accessories/products/divide",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 6, "model": "products.product", "fields": { "sku": "207", "name": "Echo",
    "url": "https://www.vitalydesign.com/collections/accessories/products/echo",
    "price": "$65"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "3" }},
   {
    "pk": 7, "model": "products.product", "fields": { "sku": "208", "name": "Clutch",
    "url": "https://www.vitalydesign.com/collections/accessories/products/clutch",
    "price": "$75"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "2" }},
   {
    "pk": 1, "model": "products.product", "fields": { "sku": "209", "name": "Proxy",
    "url": "https://www.vitalydesign.com/collections/accessories/products/proxy",
    "price": "$80"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 8, "model": "products.product", "fields": { "sku": "210", "name": "Grip",
    "url": "https://www.vitalydesign.com/collections/accessories/products/grip",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "2" }},
   {
    "pk": 9, "model": "products.product", "fields": { "sku": "211", "name": "Stasis",
    "url": "https://www.vitalydesign.com/collections/accessories/products/stasis",
    "price": "$75"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "4" }},
   {
    "pk": 10, "model": "products.product", "fields": { "sku": "212", "name": "Drift",
    "url": "https://www.vitalydesign.com/collections/accessories/products/drift",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "2" }},
   {
    "pk": 11, "model": "products.product", "fields": { "sku": "213", "name": "Helix",
    "url": "https://www.vitalydesign.com/collections/accessories/products/helix",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "2" }},
   {
    "pk": 12, "model": "products.product", "fields": { "sku": "214", "name": "Reset",
    "url": "https://www.vitalydesign.com/collections/accessories/products/reset",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "4" }},
   {
    "pk": 13, "model": "products.product", "fields": { "sku": "215", "name": "Turbine",
    "url": "https://www.vitalydesign.com/collections/accessories/products/turbine",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 14, "model": "products.product", "fields": { "sku": "216", "name": "Orbit",
    "url": "https://www.vitalydesign.com/collections/accessories/products/orbit",
    "price": "$75"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "3" }},
   {
    "pk": 15, "model": "products.product", "fields": { "sku": "217", "name": "Eclipse",
    "url": "https://www.vitalydesign.com/collections/accessories/products/eclipse",
    "price": "$65"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "3" }},
   {
    "pk": 16, "model": "products.product", "fields": { "sku": "218", "name": "Gridlok",
    "url": "https://www.vitalydesign.com/collections/accessories/products/gridlok",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 17, "model": "products.product", "fields": { "sku": "219", "name": "Resist",
    "url": "https://www.vitalydesign.com/collections/accessories/products/resist",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "2" }},
   {
    "pk": 18, "model": "products.product", "fields": { "sku": "220", "name": "Ruin",
    "url": "https://www.vitalydesign.com/collections/accessories/products/ruin",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 19, "model": "products.product", "fields": { "sku": "221", "name": "Isotope x Tungsten",
    "url": "https://www.vitalydesign.com/collections/accessories/products/isotope",
    "price": "$80"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 20, "model": "products.product", "fields": { "sku": "222", "name": "Razor",
    "url": "https://www.vitalydesign.com/collections/accessories/products/razor",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "5" }},
   {
    "pk": 21, "model": "products.product", "fields": { "sku": "223", "name": "Spark",
    "url": "https://www.vitalydesign.com/collections/accessories/products/spark",
    "price": "$55"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "5" }},
   {
    "pk": 22, "model": "products.product", "fields": { "sku": "224", "name": "Perimeter",
    "url": "https://www.vitalydesign.com/collections/accessories/products/perimeter",
    "price": "$55"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "5" }},
   {
    "pk": 23, "model": "products.product", "fields": { "sku": "225", "name": "XXX",
    "url": "https://www.vitalydesign.com/collections/accessories/products/xxx",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 24, "model": "products.product", "fields": { "sku": "226", "name": "Quantum",
    "url": "https://www.vitalydesign.com/collections/accessories/products/quantum",
    "price": "$60"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "3" }},
   {
    "pk": 25, "model": "products.product", "fields": { "sku": "227", "name": "Region",
    "url": "https://www.vitalydesign.com/collections/accessories/products/region",
    "price": "$55"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 26, "model": "products.product", "fields": { "sku": "228", "name": "Rey",
    "url": "https://www.vitalydesign.com/collections/accessories/products/rey",
    "price": "$65"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "4" }},
   {
    "pk": 27, "model": "products.product", "fields": { "sku": "229", "name": "Exile",
    "url": "https://www.vitalydesign.com/collections/accessories/products/exile",
    "price": "$85"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "3" }},
   {
    "pk": 28, "model": "products.product", "fields": { "sku": "230", "name": "Cell",
    "url": "https://www.vitalydesign.com/collections/accessories/products/cell",
    "price": "$65"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 29, "model": "products.product", "fields": { "sku": "231", "name": "Solar",
    "url": "https://www.vitalydesign.com/collections/accessories/products/solar",
    "price": "$55"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "2" }},
   {
    "pk": 30, "model": "products.product", "fields": { "sku": "232", "name": "Idol",
    "url": "https://www.vitalydesign.com/collections/accessories/products/idol",
    "price": "$50"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "2" }},
   {
    "pk": 31, "model": "products.product", "fields": { "sku": "233", "name": "Conduit x Tungsten",
    "url": "https://www.vitalydesign.com/collections/accessories/products/conduit",
    "price": "$80"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "1" }},
   {
    "pk": 32, "model": "products.product", "fields": { "sku": "234", "name": "Abyss x Sterling Silver",
    "url": "https://www.vitalydesign.com/collections/accessories/products/abyss",
    "price": "$105"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "3" }},
   {
    "pk": 33, "model": "products.product", "fields": { "sku": "235", "name": "Hex x Sterling Silver",
    "url": "https://www.vitalydesign.com/collections/accessories/products/hex",
    "price": "$95"
-  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }},
+  , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" , "category" : "3" }},
   {
    "pk": 34, "model": "products.product", "fields": { "sku": "236", "name": "Playne x Sterling Silver",
    "url": "https://www.vitalydesign.com/collections/accessories/products/playne",
    "price": "$75"
-    , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" }}
+    , "description" : "Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero's 1st-century BC text De Finibus Bonorum et Malorum" ,  "category" : "3"  }}
    
  ]

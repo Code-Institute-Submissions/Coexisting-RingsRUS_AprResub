@@ -23,19 +23,19 @@ def bag_contents(request):
             })
         else:
             product = get_object_or_404(Product, pk=item_id)
-            for size, quantity in item_data['items_by_size'].items():
+            for quantity in item_data['items_by_size'].items():
                 total += quantity * product.price
                 product_count += quantity
                 bag_items.append({
                     'item_id': item_id,
                     'quantity': quantity,
                     'product': product,
-                    
+
                 })
 
-    if total < settings.FREE_DELIVERY_THRESHOLD:
-        delivery = total * Decimal(settings.STANDARD_DELIVERY_PERCENTAGE / 100)
-        free_delivery_delta = settings.FREE_DELIVERY_THRESHOLD - total
+    if total < settings.FREE_SHIPPING_THRESHOLD:
+        delivery = total * Decimal(settings.STANDARD_SHIPPING_PERCENTAGE / 100)
+        free_delivery_delta = settings.FREE_SHIPPING_THRESHOLD - total
     else:
         delivery = 0
         free_delivery_delta = 0
@@ -48,7 +48,7 @@ def bag_contents(request):
         'product_count': product_count,
         'delivery': delivery,
         'free_delivery_delta': free_delivery_delta,
-        'free_delivery_threshold': settings.FREE_DELIVERY_THRESHOLD,
+        'free_shipping_threshold': settings.FREE_SHIPPING_THRESHOLD,
         'grand_total': grand_total,
     }
 
