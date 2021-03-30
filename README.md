@@ -64,7 +64,7 @@ In the future, I would allow users to be able to follow other investors and see 
 
 ## Testing
 
-The website is easily accessible and allows investersto find out more about a potential businedd to invest into from the venture drop down. The investment forms allows users to be able to pass on information to the ventures so they can invest into said venture. The ventures on cards allows users to easily glance ventures without having to scroll through large amounts of paragraphs about the venture.
+The website is easily accessible and allows customers to find out more about the business and to purchase items. 
 
 I used different browsers to test this site, this included:
 * Internet Explorer
@@ -84,7 +84,7 @@ Also, different devices were used, this includes :
 
 
 ## Deployment
-This website is hosted on [Heroku](https://investsmartblm.herokuapp.com/) deployed using the master branch, explained on github [Here](https://help.github.com/en/github/getting-started-with-github/create-a-repo) and on Heroku [Here](https://devcenter.heroku.com/articles/git#prerequisites-install-git-and-the-heroku-cli). The deployed site updates automatically upon new commits to the master branch.
+This website is hosted on github pages deployed using the master branch, explained on github [Here](https://help.github.com/en/github/getting-started-with-github/create-a-repo). The deployed site updates automatically upon new commits to the master branch.
 
 
 ## Credit
