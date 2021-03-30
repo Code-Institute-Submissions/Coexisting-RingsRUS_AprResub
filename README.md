@@ -19,9 +19,9 @@ The users of this site are potential customers for RingsRUS.
 The color scheme consists of black and white for a professional, edgy and chic look, which corresponds well with the users of the website who will be those interested in fashion or jewellery in general.
 
 ### Mockups
-The web page has mutiple pages including a bad page. This can be seen in the wireframe:
+The web page has mutiple pages including a bag page. This can be seen in the wireframe:
 
-* [Wireframe](https://www.figma.com/file/Q8aKmRRdNYh4YDcPlgk7Tz/investsmart?node-id=0%3A1)
+* [Wireframe](https://www.figma.com/file/hh9MeowSkZakhPHTHYMpAV/Ringsrus?node-id=0%3A1)
 
 ## Features
 
