@@ -1,45 +1,95 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# MSP3
 
-Welcome Mya,
+## Project Purpose
+A website that displays small ventures in need of capital. It allows people looking to invet and those looking for investment to connect.
+## UX design
+![Image of demo](Documentation/msp3.png)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+## User
+The users of this site are potential investors in business start ups.
 
-## Gitpod Reminders
+### User stories
+* A Investor looking for a new investment
+* A supporter of a business looking to help with investments
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Design
+The color scheme consists of blue and white for a professional and modern look, which corresponds well with the users of the website who will be invetors.
 
-`python3 -m http.server`
+### Mockups
+The web page has mutiple pages with one page that opens directly to their spotify. This can be seen in the wireframe:
 
-A blue button should appear to click: *Make Public*,
+* [Wireframe](https://www.figma.com/file/Q8aKmRRdNYh4YDcPlgk7Tz/investsmart?node-id=0%3A1)
 
-Another blue button should appear to click: *Open Browser*.
+## Features
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Planned features 
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+* Documentation - ReadMe File & Mockups
+* Materalize
+  * HTML
+  * CSS 
+  * JS
+  * framework (grid system, buttons,jumbotron, cards)- This makes the website more interactive and is easier for users to use. 
+* Interactive google maps API
+* GitHub -Remote Repository- Allows cohesive and easy collaborations, which helps to create a smooth and responsive website.
+* GitHub pages - Deployed
+* Heruko
+* MongoDB
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Future Features 
+In the future, I would allow users to be able to follow other investors and see their investents. 
 
-## Updates Since The Instructional Video
+## Technologies used
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML#:~:targetText=HTML%20(HyperText%20Markup%20Language)%20is,functionality%2Fbehavior%20(JavaScript).)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS#:~:targetText=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.)
+* [JS](https://www.javascript.com/)
+* [Google chrome](https://www.google.com/chrome/)
+* [Google](https://www.google.com/)
+* [Materalize](https://materializecss.com/)
+* [Visual Studio One](https://code.visualstudio.com/)
+* [Github](https://github.com/)
+* [Gitpod](https://gitpod.io/)
+* [Figma](https://gitpod.io/)
+* [MongoDB](https://www.mongodb.com/)
+* [Slack](https://slack.com/intl/en-gb/)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Testing
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+The website is easily accessible and allows investersto find out more about a potential businedd to invest into from the venture drop down. The investment forms allows users to be able to pass on information to the ventures so they can invest into said venture. The ventures on cards allows users to easily glance ventures without having to scroll through large amounts of paragraphs about the venture.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+I used different browsers to test this site, this included:
+* Internet Explorer
+* Google Chrome 
+* Safari
+* Brave
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Also, different devices were used, this includes :
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+* Samsung 8
+* IPhone 6
+* Macbook 
+* Ipad mini
+* Ipad pro
+### Issues fixed
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
+## Deployment
+This website is hosted on [Heroku](https://investsmartblm.herokuapp.com/) deployed using the master branch, explained on github [Here](https://help.github.com/en/github/getting-started-with-github/create-a-repo) and on Heroku [Here](https://devcenter.heroku.com/articles/git#prerequisites-install-git-and-the-heroku-cli). The deployed site updates automatically upon new commits to the master branch.
 
-Happy coding!
+
+## Credit
+### Media
+All images were from google and are not owned by me.
+### Content
+All content was written by me for the website.
+
+### Acknowledgment
+For all the help and inspiration:
+* Code Institute
+* [Slack](https://slack.com/intl/en-gb/) community
+* [Stack overflow] (https://stackoverflow.com/) 
+* Seun Owonikoko @seun_mentor
+
