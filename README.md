@@ -1,22 +1,25 @@
-# MSP3
+# RingsRUS
 
 ## Project Purpose
-A website that displays small ventures in need of capital. It allows people looking to invet and those looking for investment to connect.
+A ecommerce website to attract customers for a ring business and allow them to view and buy rings from RingsRUS.
 ## UX design
 ![Image of demo](Documentation/msp3.png)
 
 ## User
-The users of this site are potential investors in business start ups.
+The users of this site are potential customers for RingsRUS.
 
 ### User stories
-* A Investor looking for a new investment
-* A supporter of a business looking to help with investments
+* A potential customer looking to buy rings 
+* A previous customer looking to find details about the business
+* A previous customer looking to find contact and social media for the business 
+* A previous customer looking to buy more rings 
+* A previous customer looking to return items
 
 ## Design
-The color scheme consists of blue and white for a professional and modern look, which corresponds well with the users of the website who will be invetors.
+The color scheme consists of black and white for a professional, edgy and chic look, which corresponds well with the users of the website who will be those interested in fashion or jewellery in general.
 
 ### Mockups
-The web page has mutiple pages with one page that opens directly to their spotify. This can be seen in the wireframe:
+The web page has mutiple pages including a bad page. This can be seen in the wireframe:
 
 * [Wireframe](https://www.figma.com/file/Q8aKmRRdNYh4YDcPlgk7Tz/investsmart?node-id=0%3A1)
 
@@ -26,7 +29,7 @@ The web page has mutiple pages with one page that opens directly to their spotif
 
 
 * Documentation - ReadMe File & Mockups
-* Materalize
+* Bootstrap
   * HTML
   * CSS 
   * JS
@@ -44,11 +47,14 @@ In the future, I would allow users to be able to follow other investors and see 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML#:~:targetText=HTML%20(HyperText%20Markup%20Language)%20is,functionality%2Fbehavior%20(JavaScript).)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS#:~:targetText=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.)
 * [JS](https://www.javascript.com/)
+* [Python](https://www.python.org/)
 * [Google chrome](https://www.google.com/chrome/)
+* [Brave](https://brave.com/?ref=poi214)
 * [Google](https://www.google.com/)
-* [Materalize](https://materializecss.com/)
+* [Bootstrap](https://getbootstrap.com/)
 * [Visual Studio One](https://code.visualstudio.com/)
 * [Github](https://github.com/)
+* [Parsehub](https://parsehub.com/)
 * [Gitpod](https://gitpod.io/)
 * [Figma](https://gitpod.io/)
 * [MongoDB](https://www.mongodb.com/)
@@ -69,8 +75,9 @@ I used different browsers to test this site, this included:
 Also, different devices were used, this includes :
 
 * Samsung 8
-* IPhone 6
-* Macbook 
+* IPhone 8
+* Lenova laptop
+* HP Monitor
 * Ipad mini
 * Ipad pro
 ### Issues fixed
@@ -82,8 +89,9 @@ This website is hosted on [Heroku](https://investsmartblm.herokuapp.com/) deploy
 
 ## Credit
 ### Media
-All images were from google and are not owned by me.
+All images were from Vitality and google and are not owned by me.
 ### Content
+All products information was from [Vitality](https://www.vitalydesign.com/) and is not owned by me 
 All content was written by me for the website.
 
 ### Acknowledgment
@@ -91,5 +99,5 @@ For all the help and inspiration:
 * Code Institute
 * [Slack](https://slack.com/intl/en-gb/) community
 * [Stack overflow] (https://stackoverflow.com/) 
-* Seun Owonikoko @seun_mentor
+
 
