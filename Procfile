@@ -1,1 +1,1 @@
-web: gunicorn ringsrus.wsgi:application
+web: gunicorn app:app --logfile=-
