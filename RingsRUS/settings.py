@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 import os
+import dj_database_url
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -26,7 +27,7 @@ SECRET_KEY = '(h(rl34)sj*pdz^^ggd#e9k4a2(w6ede9-4&pq@2%4f=s8$tb^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ringsrus.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -107,14 +108,20 @@ LOGIN_URL = '/accounts/login/'
 LOGIN_REDIRECT_URL = '/'
 
 
-# Database
-# https://docs.djangoproject.com/en/3.1/ref/settings/#databases
+if 'DATABASE_URL' in os.environ:
+    DATABASES = {
+        'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
+    }
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        }
+    }
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
+    'default' : dj_database_url.parse('postgres://hfvfvtfgfdrxup:bef790f4c8d2708e70ebc606f0ff2232497aaef288ace0ab4febe2b4eefba2dd@ec2-54-155-87-214.eu-west-1.compute.amazonaws.com:5432/d9a9hflfaavjut')
 }
 
 
