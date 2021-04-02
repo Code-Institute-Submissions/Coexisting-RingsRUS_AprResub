@@ -15,7 +15,6 @@ class Migration(migrations.Migration):
         ),
         migrations.AddField(
             model_name='order',
-            name='stripe_pid',
             field=models.CharField(default='', max_length=254),
         ),
     ]
